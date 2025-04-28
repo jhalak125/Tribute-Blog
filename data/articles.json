@@ -1,1 +1,19 @@
-[]
+// data/articles.json
+[
+  {
+    "id": 1,
+    "title": "Tribute to the Brave",
+    "excerpt": "A beautiful tribute to all those who have fought bravely...",
+    "content": "Full article content goes here...",
+    "author": "Jane Doe",
+    "date": "2025-04-28"
+  },
+  {
+    "id": 2,
+    "title": "A Journey Through History",
+    "excerpt": "A deep dive into the history of our beloved country...",
+    "content": "Full article content goes here...",
+    "author": "John Smith",
+    "date": "2025-04-25"
+  }
+]
