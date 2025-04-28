@@ -1,17 +1,1 @@
-import articles from '../data/articles.json';
-
-export default function HomePage() {
-  return (
-    <div>
-      <h1>Articles</h1>
-      {articles.map((article) => (
-        <div key={article.id}>
-          <h2>{article.title}</h2>
-          <p><strong>By {article.author}</strong></p>
-          <p>{article.content}</p>
-          <p><em>{article.date}</em></p>
-        </div>
-      ))}
-    </div>
-  );
-}
+[]
