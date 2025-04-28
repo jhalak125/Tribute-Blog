@@ -9,9 +9,3 @@ This is a simple blog tribute project made using Next.js and TailwindCSS.
 - Search Functionality (Bonus)
 - Responsive Design
 
-## Getting Started
-
-```bash
-npm install
-npm run dev
-```
